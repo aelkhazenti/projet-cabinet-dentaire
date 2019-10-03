@@ -1,0 +1,181 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+cabinet dentaire
+</name>
+</assembly>
+<members>
+<member name="T:cabinet_dentaire.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources._001_home_page">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources._001_tooth">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources._002_add_new_user">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources._002_add_new_user1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources._002_user_silhouette">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources._003_lock">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources._003_musica_searcher">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources._004_calendar">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources._005_logout">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources.add_anchor_point">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources.add_anchor_point__3_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources.hourglass">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources.hourglass__1_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources.hourglass__2_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources.login">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources.show_password">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources.stopwatch">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:cabinet_dentaire.My.Resources.Resources.stopwatch__1_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:cabinet_dentaire._projet_vb_netDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:cabinet_dentaire._projet_vb_netDataSet.patientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:cabinet_dentaire._projet_vb_netDataSet.patientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:cabinet_dentaire._projet_vb_netDataSet.patientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:cabinet_dentaire._projet_vb_netDataSetTableAdapters.patientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:cabinet_dentaire._projet_vb_netDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:cabinet_dentaire._projet_vb_netDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(cabinet_dentaire._projet_vb_netDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:cabinet_dentaire._projet_vb_netDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(cabinet_dentaire._projet_vb_netDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:cabinet_dentaire._projet_vb_netDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(cabinet_dentaire._projet_vb_netDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:cabinet_dentaire._projet_vb_netDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:cabinet_dentaire._projet_vb_netDataSetTableAdapters.TableAdapterManager.UpdateAll(cabinet_dentaire._projet_vb_netDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:cabinet_dentaire._projet_vb_netDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:cabinet_dentaire._projet_vb_netDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
